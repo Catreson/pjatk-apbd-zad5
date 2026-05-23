@@ -22,6 +22,7 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+[Mm]igrations/
 
 # .NET Core
 project.lock.json
@@ -38,6 +39,12 @@ ScaffoldingReadMe.txt
 
 # dotenv environment variables file
 .env
+
+# IDE
+.vs/
+.idea/
+*.user
+*.suo
 
 # Others
 ~$*
